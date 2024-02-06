@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 ## navigate to the blog-application
 
 
-cd blog-application
+<code>cd blog-application</code>
 
 ## run the following command
 
@@ -28,7 +28,7 @@ composer install
 Create a copy of the .env.example file and rename it to .env. Update the database configuration in the .env file
 generate an application key using
 
-php artisan key:generate 
+<code>php artisan key:generate</code>
 
 and migrate the database using
 
@@ -36,6 +36,6 @@ and migrate the database using
 
 ## start the developement server
 
-php artisan serve
+<code>php artisan serve</code>
 
-npm run dev
+<code>npm run dev</code>
