@@ -15,7 +15,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository to your local machine:
    ```sh
    git clone https://github.com/jasperjerome/blog-application.git
-```sh
+   ```sh
 ## navigate to the blog-application
 
 cd blog-application
@@ -28,7 +28,7 @@ generate an application key using
 
 php artisan key:generate
 migrate te database using
-```sh
+
 php artisan migrate
 
 ## start the developement server
