@@ -13,11 +13,11 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 1. Clone the repository to your local machine:
-   ```sh
+   
    git clone https://github.com/jasperjerome/blog-application.git
 
 ## navigate to the blog-application
-```sh
+
 cd blog-application
 
 ## run the following command
